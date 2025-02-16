@@ -53,7 +53,7 @@ export default async function(eleventyConfig) {
 		stylesheet: "pretty-atom-feed.xsl",
 		templateData: {
 			eleventyNavigation: {
-				key: "Feed",
+				key: "RSS",
 				order: 4
 			}
 		},
@@ -62,7 +62,7 @@ export default async function(eleventyConfig) {
 			limit: 10,
 		},
 		metadata: {
-			language: "en",
+			language: "pl",
 			title: "Blog Title",
 			subtitle: "This is a longer description about your blog.",
 			base: "https://example.com/",

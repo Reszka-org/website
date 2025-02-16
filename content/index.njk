@@ -6,9 +6,11 @@ const eleventyNavigation = {
 
 const numberOfLatestPostsToShow = 3;
 ---
+<h1>O nas</h1>
+<b>Fundacja Wolnego Oprogramowania Reszka</b> to polska organizacja non-profit, promująca ideę wolnego i otwartego oprogramowania. Propagujemy wykorzystywanie nowoczesnych technologii z zakresu wolnego i otwartego oprogramowania w instytucjach rządowych, pozarządowych, samorządowych, biznesowych i innych podmiotach w ogólnie pojętym poradnictwie obywatelskim.
 {% set postsCount = collections.posts | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
-<h1>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h1>
+<h1>Najnowsz{% if latestPostsCount != 1 %}e{% endif %}y {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}y{% endif %}</h1>
 
 {% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
 {% set postslistCounter = postsCount %}
@@ -16,7 +18,7 @@ const numberOfLatestPostsToShow = 3;
 
 {% set morePosts = postsCount - numberOfLatestPostsToShow %}
 {% if morePosts > 0 %}
-<p>{{ morePosts }} more post{% if morePosts != 1 %}s{% endif %} can be found in <a href="blog.njk">the archive</a>.</p>
+<p>{{ morePosts }} więcej postów można znaleźć w <a href="blog.njk">archiwum</a>.</p>
 {% endif %}
 
 {# List every content page in the project #}
