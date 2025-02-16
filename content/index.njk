@@ -10,7 +10,7 @@ const numberOfLatestPostsToShow = 3;
 <b>Fundacja Wolnego Oprogramowania Reszka</b> to polska organizacja non-profit, promująca ideę wolnego i otwartego oprogramowania. Propagujemy wykorzystywanie nowoczesnych technologii z zakresu wolnego i otwartego oprogramowania w instytucjach rządowych, pozarządowych, samorządowych, biznesowych i innych podmiotach w ogólnie pojętym poradnictwie obywatelskim.
 {% set postsCount = collections.posts | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
-<h1>Najnowsz{% if latestPostsCount != 1 %}e{% endif %}y {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}y{% endif %}</h1>
+<h1>Najnowsz{% if latestPostsCount != 1 %}e{% else %}y{% endif %} {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}y{% endif %}</h1>
 
 {% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
 {% set postslistCounter = postsCount %}
