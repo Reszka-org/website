@@ -7,7 +7,11 @@ const eleventyNavigation = {
 const numberOfLatestPostsToShow = 3;
 ---
 <h1>O nas</h1>
-<b>Fundacja Wolnego Oprogramowania Reszka</b> to polska organizacja non-profit, promująca ideę wolnego i otwartego oprogramowania. Propagujemy wykorzystywanie nowoczesnych technologii z zakresu wolnego i otwartego oprogramowania w instytucjach rządowych, pozarządowych, samorządowych, biznesowych i innych podmiotach w ogólnie pojętym poradnictwie obywatelskim.
+<b>Fundacja Wolnego Oprogramowania Reszka</b> to polska organizacja non-profit, promująca ideę wolnego i otwartego oprogramowania. 
+Propagujemy wykorzystywanie nowoczesnych technologii z zakresu wolnego i otwartego oprogramowania w instytucjach rządowych, pozarządowych, samorządowych, 
+biznesowych i innych podmiotach w ogólnie pojętym poradnictwie obywatelskim.<br>
+
+<br>KRS: <a href="https://wyszukiwarka-krs.ms.gov.pl/dane-szczegolowe-podmiotu;numerKRS=nPuwKJWZGS%2BoI1tDtjItAA%3D%3D;typ=S">0001132384</a>
 {% set postsCount = collections.posts | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
 <h1>Najnowsz{% if latestPostsCount != 1 %}e{% else %}y{% endif %} {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}y{% endif %}</h1>
