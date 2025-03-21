@@ -4,11 +4,19 @@ date: 2025-02-16
 tags: posts
 ---
 
+### Table of Contents
+
+- [Warszawa](#warszawa)
+- [Poznań](#poznań)
+- [Wrocław](#wrocław)
+- [Podziękowania](#podziękowania)
+- [Więcej informacji](#więcej-informacji)
+
 **I Love Free Software Day** to wyjątkowy dzień celebracji Wolnego Oprogramowania, który co roku gromadzi entuzjastów FLOSS (Free/Libre & Open Source Software) na całym świecie. Tegoroczna edycja odbyła się pod patronatem Free Software Foundation Europe (FSFE), która narzuciła temat przewodni: **„Hidden Projects”** – poświęcony mniej widocznym, ale kluczowym elementom cyfrowego świata.
 
 Wydarzenia miały miejsce w trzech polskich miastach: Warszawie, Poznaniu i Wrocławiu, jednocząc społeczność pasjonatów wolnego oprogramowania i inspirując do dalszego wspierania jego rozwoju.
 
-## Warszawa – Ukryte Projekty na Pierwszym Planie
+## Warszawa
 
 W Warszawie wydarzenie skupiło się na temacie „Ukrytych Projektów” – tych niedocenianych bohaterów, które napędzają internet i infrastrukturę cyfrową. Spotkanie odbyło się pod patronatem Free Software Foundation Europe i przyciągnęło liczne grono miłośników technologii.
 
@@ -20,7 +28,7 @@ W Warszawie wydarzenie skupiło się na temacie „Ukrytych Projektów” – ty
 - **Dominik "Rathann" Mierzejewski (Fedora Project)** – „FOSS and software patents: why we can't have (some) nice things in Fedora?”
 - **Damian Fajfer (Fundacja Wolnego Oprogramowania Reszka)** – „Mixxx - zostań DJem bez drogiego sprzętu (i talentu)”
 
-## Poznań – Walentynki z Wolnym Oprogramowaniem
+## Poznań
 
 Poznańska edycja miała wyjątkowy klimat – nie tylko ze względu na datę, bo odbyła się w Walentynki, ale także dzięki serdecznej atmosferze stworzonej przez organizatorów i uczestników. Krótkie, dynamiczne prelekcje w formule Short Talks przyciągnęły uwagę zarówno stałych bywalców, jak i osób dopiero odkrywających świat wolnego oprogramowania. Na koniec odbył się networking przy pizzy. Organizatorami byli **Knyfyrtel Hackerspace Poznań** oraz **Koło Naukowe PUTrequest_**.
 
@@ -32,7 +40,7 @@ Poznańska edycja miała wyjątkowy klimat – nie tylko ze względu na datę, b
 - **Vil** – „Daily life z Ubuntu Touch.”
 - **Kuba Orlik** – „Rentgen – otwarte narzędzie do walczenia o prywatność w Internecie.”
 
-## Wrocław – Inspirujące Prelekcje i Dyskusje
+## Wrocław
 
 We Wrocławiu wydarzenie także zgromadziło szerokie grono pasjonatów technologii i wolnego oprogramowania. Program obejmował inspirujące prezentacje:
 
@@ -44,25 +52,9 @@ We Wrocławiu wydarzenie także zgromadziło szerokie grono pasjonatów technolo
 
 Serdeczne podziękowania kierujemy do wszystkich zaangażowanych w organizację tegorocznego **I Love Free Software Day**. Dzięki Waszej pasji, zaangażowaniu oraz wsparciu udało się stworzyć wyjątkowe wydarzenie, które jednoczy społeczność FLOSS w Polsce.
 
-Dziękujemy również wszystkim prelegentom za inspirujące prezentacje oraz dzielenie się swoją wiedzą i doświadczeniem:
+Dziękujemy również wszystkim prelegentom za inspirujące prezentacje oraz dzielenie się swoją wiedzą i doświadczeniem!
 
-- **Tymoteusz Czech (Unleash)**
-- **Sebastian "dos" Krzyszkowiak**
-- **neiman**
-- **Dominik "Rathann" Mierzejewski (Fedora Project)**
-- **Damian Fajfer (Fundacja Wolnego Oprogramowania Reszka)**
-- **Norbert Langner**
-- **Adam Piaseczny**
-- **Yauhen Huchok**
-- **Vil**
-- **Kuba Orlik**
-- **Michał Korczak**
-- **Krzysztof Krysiński**
-- **Miłosz Kłosowicz**
-
-Wasz wkład w rozwój społeczności FLOSS jest nieoceniony!
-
-### Więcej informacji
+## Więcej informacji
 
 Jeśli chcesz dowiedzieć się więcej o wydarzeniach w poszczególnych miastach, zapraszamy na oficjalne strony:
 
@@ -70,4 +62,13 @@ Jeśli chcesz dowiedzieć się więcej o wydarzeniach w poszczególnych miastach
 - **Wrocław** – [ilfs.linuksowa.pl](https://ilfs.linuksowa.pl/)
 - **Poznań** – [hspoz.pl/ilovefs2025](https://hspoz.pl/ilovefs2025/)
 
+Jako historyczny zapis oraz wkład w przyszłe wydarzenia z serii I Love Free Software Day zebraliśmy kod każdego wydarzenia i opublikowaliśmy tutaj: [Reszka-org/ilfs-day: Websites about I Love Free Software Day 2025](https://github.com/Reszka-org/ilfs-day)
+
+Masz przemyślenia, uwagi albo po prostu chcesz podzielić się swoją opinią? Zapraszamy do komentowania na Mastodonie: [pol.social/@reszka](https://pol.social/@reszka/114201922428136559)
+
 Do zobaczenia za rok na **I Love Free Software Day**!
+
+---
+
+Dokument przygotowała: [Magdalena Turczyn](mailto:magdalena.turczyn@reszka.org)  
+Licencja: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.pl)
