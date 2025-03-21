@@ -70,5 +70,5 @@ Do zobaczenia za rok na **I Love Free Software Day**!
 
 ---
 
-Dokument przygotowała: [Magdalena Turczyn](mailto:magdalena.turczyn@reszka.org)  
+Dokument przygotowała: Magdalena Turczyn magdalena.turczyn[at]reszka.org  
 Licencja: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.pl)
