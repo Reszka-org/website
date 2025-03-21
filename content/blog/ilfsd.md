@@ -7,10 +7,10 @@ tags: posts
 ### Table of Contents
 
 - [Warszawa](#warszawa)
-- [Poznań](#poznań)
-- [Wrocław](#wrocław)
-- [Podziękowania](#podziękowania)
-- [Więcej informacji](#więcej-informacji)
+- [Poznan](#poznan)
+- [Wroclaw](#wroclaw)
+- [Podziekowania](#podziekowania)
+- [Wiecej informacji](#wiecej-informacji)
 
 **I Love Free Software Day** to wyjątkowy dzień celebracji Wolnego Oprogramowania, który co roku gromadzi entuzjastów FLOSS (Free/Libre & Open Source Software) na całym świecie. Tegoroczna edycja odbyła się pod patronatem Free Software Foundation Europe (FSFE), która narzuciła temat przewodni: **„Hidden Projects”** – poświęcony mniej widocznym, ale kluczowym elementom cyfrowego świata.
 
@@ -28,7 +28,7 @@ W Warszawie wydarzenie skupiło się na temacie „Ukrytych Projektów” – ty
 - **Dominik "Rathann" Mierzejewski (Fedora Project)** – „FOSS and software patents: why we can't have (some) nice things in Fedora?”
 - **Damian Fajfer (Fundacja Wolnego Oprogramowania Reszka)** – „Mixxx - zostań DJem bez drogiego sprzętu (i talentu)”
 
-## Poznań
+## Poznan
 
 Poznańska edycja miała wyjątkowy klimat – nie tylko ze względu na datę, bo odbyła się w Walentynki, ale także dzięki serdecznej atmosferze stworzonej przez organizatorów i uczestników. Krótkie, dynamiczne prelekcje w formule Short Talks przyciągnęły uwagę zarówno stałych bywalców, jak i osób dopiero odkrywających świat wolnego oprogramowania. Na koniec odbył się networking przy pizzy. Organizatorami byli **Knyfyrtel Hackerspace Poznań** oraz **Koło Naukowe PUTrequest_**.
 
@@ -40,7 +40,7 @@ Poznańska edycja miała wyjątkowy klimat – nie tylko ze względu na datę, b
 - **Vil** – „Daily life z Ubuntu Touch.”
 - **Kuba Orlik** – „Rentgen – otwarte narzędzie do walczenia o prywatność w Internecie.”
 
-## Wrocław
+## Wroclaw
 
 We Wrocławiu wydarzenie także zgromadziło szerokie grono pasjonatów technologii i wolnego oprogramowania. Program obejmował inspirujące prezentacje:
 
@@ -48,13 +48,13 @@ We Wrocławiu wydarzenie także zgromadziło szerokie grono pasjonatów technolo
 - **Krzysztof Krysiński** – „Skia - API na które patrzy każdy, codziennie”
 - **Miłosz Kłosowicz** – „FOSS wbudowane (albo zmodowane) w sprzęcie elektronicznym powszechnego użytku”
 
-## Podziękowania
+## Podziekowania
 
 Serdeczne podziękowania kierujemy do wszystkich zaangażowanych w organizację tegorocznego **I Love Free Software Day**. Dzięki Waszej pasji, zaangażowaniu oraz wsparciu udało się stworzyć wyjątkowe wydarzenie, które jednoczy społeczność FLOSS w Polsce.
 
 Dziękujemy również wszystkim prelegentom za inspirujące prezentacje oraz dzielenie się swoją wiedzą i doświadczeniem!
 
-## Więcej informacji
+## Wiecej informacji
 
 Jeśli chcesz dowiedzieć się więcej o wydarzeniach w poszczególnych miastach, zapraszamy na oficjalne strony:
 
