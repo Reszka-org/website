@@ -1,7 +1,6 @@
 ---
 title: Sesja Linuksowa 2025
 date: 2025-03-20
-draft: true
 tags: posts
 ---
 
@@ -28,6 +27,12 @@ Przez dwa dni odbędą się prelekcje programistów i kontrybutorów FOSS, któr
 ---
 
 **Wydarzenie jest bezpłatne**, a darmowe bilety można odebrać na stronie:  
-[https://app.evenea.pl/event/19-sesja-linuksowa/?source=mag](https://app.evenea.pl/event/19-sesja-linuksowa/?source=mag)
+[https://app.evenea.pl/event/19-sesja-linuksowa/](https://app.evenea.pl/event/19-sesja-linuksowa/?source=reszka)
 
 Dla osób, które nie mogą uczestniczyć osobiście, przewidziano także **transmisję online na platformie YouTube**.
+
+Masz przemyślenia, uwagi albo po prostu chcesz podzielić się swoją opinią? Zapraszamy do komentowania na Mastodonie: [pol.social/@reszka](https://pol.social/@reszka/114207526168104391)
+
+---
+
+*Post sponsorowany – jesteśmy partnerem medialnym Sesji Linuksowej 2025.*
